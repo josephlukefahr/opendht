@@ -1,0 +1,6 @@
+[submodule "thirdparty/expected-lite"]
+	path = thirdparty/expected-lite
+	url = https://github.com/martinmoene/expected-lite
+[submodule "thirdparty/restinio"]
+	path = thirdparty/restinio
+	url = https://github.com/Stiffstream/restinio
