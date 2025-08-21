@@ -4,3 +4,6 @@
 [submodule "thirdparty/restinio"]
 	path = thirdparty/restinio
 	url = https://github.com/Stiffstream/restinio
+[submodule "thirdparty/llhttp"]
+	path = thirdparty/llhttp
+	url = https://github.com/nodejs/llhttp
